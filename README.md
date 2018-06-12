@@ -1,2 +1,2 @@
 # Server Client with GraphQL
-project from a GraphQL
+Project from a GraphQL.
